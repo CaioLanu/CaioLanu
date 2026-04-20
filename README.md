@@ -1,6 +1,6 @@
 <div align="right">
   <a href="README.md">
-   
+    <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge" alt="Read in English">
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4bm9pZ3p5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
