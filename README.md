@@ -14,9 +14,7 @@
   Sou um desenvolvedor focado em construir interfaces intuitivas e eficientes. Com mais de 6 anos de experiência na gestão de sistemas críticos e controle de acessos, hoje aplico minha visão analítica no <strong>Desenvolvimento Frontend</strong>, <strong>Mobile</strong> e <strong>Arquitetura de Dados</strong>.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZ4bm9pZ3p5eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+
 
 ---
 
